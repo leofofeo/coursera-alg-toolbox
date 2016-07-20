@@ -17,4 +17,4 @@ def get_fibonacci(fib_length):
 
 # 0, 1, 1, 2, 3, 5, 8, 13, 21, 34
 # 1  2  3  4  5  6  7  8   9   10
-print(get_fibonacci(9))
+print(get_fibonacci(100))
